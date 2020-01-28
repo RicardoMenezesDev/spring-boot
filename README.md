@@ -7,7 +7,7 @@ This repository will be used for code creation using spring boot. In the master 
 
 
 # Technical Stack
-> * Spring Boot version 2.2.3
+> * Spring Boot v2
 > * Junit
 > * Lombock
 
