@@ -6,7 +6,7 @@ Ricardo Menezes
 This repository will be used for code creation using spring boot. In the master branche will be the union of each test performed with the spring boot and for each test a branche feature will be created for the tests.
 
 
-# Tecnology
+# Technical Stack
 > * Spring Boot version 2.2.3
 > * Junit
 > * Lombock
